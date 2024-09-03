@@ -1,0 +1,9 @@
+com\mycompany\mavenprojectstudentsluchacz\service\IRaport.class
+com\mycompany\mavenprojectstudentsluchacz\service\TextFileExporter.class
+com\mycompany\mavenprojectstudentsluchacz\MavenprojectStudentSluchacz.class
+com\mycompany\mavenprojectstudentsluchacz\domain\Student.class
+com\mycompany\mavenprojectstudentsluchacz\baza\BazaOsob.class
+com\mycompany\mavenprojectstudentsluchacz\service\RaportGenerator.class
+com\mycompany\mavenprojectstudentsluchacz\domain\Osoba.class
+com\mycompany\mavenprojectstudentsluchacz\domain\Sluchacz.class
+com\mycompany\mavenprojectstudentsluchacz\service\IExporter.class

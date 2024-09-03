@@ -32,6 +32,7 @@ public class TextFileExporter implements IExporter {
                             + sluchacz.isCzyZarejestrowany());
                 }
             }
+            writer.close();
         }
         
     }
